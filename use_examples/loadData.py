@@ -1,3 +1,5 @@
+
+# Note: activate virtual environment: venv_ruslaw\Scripts\activate
 # -*- coding: utf-8 -*- 
 # By Denis A.Saveliev
 # This script loads RusLawOD data to a Pandas DataFrame
